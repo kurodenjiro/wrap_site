@@ -1,0 +1,17 @@
+{
+    "site":{
+        "port":3333,
+        "cache":3600,
+        "proxy":true,
+        "domain":"https://kdedevelopers.org",
+        "name":"Kdedevelopers"
+    },
+    "proxy":{
+        "host":"zproxy.lum-superproxy.io",
+        "port":22225,
+        "auth":{
+            "username":"lum-customer-hl_77bca90d-zone-zone2-country-us",
+            "password":"l3wbug7ucg55"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+i.download{
+    background:url(/static/svg/ic-wdl.svg) no-repeat center;
+    top:2px;
+    margin-right:1px
+}
+i.cat{
+    background:url(/static/svg/fa-fa-th.svg) no-repeat center;
+    top:1px;
+    margin-right:4px
+}
+i.bcat{
+    background:url(/static/svg/fas-fa-th.svg) no-repeat center;
+    top:1px;
+    margin-right:4px
+}
+i.downloader{
+    background:url(/static/svg/fa-fa-download.svg) no-repeat center;
+    top:2px;
+    margin-right:4px
+}
+i.sort-num{
+    background:url(/static/svg/sort-numberic.svg) no-repeat center;
+    top:2px;
+    margin-right:4px
+}
+i.search{
+    background:url(/static/svg/fa-fa-search.svg) no-repeat center;
+    width:16px;
+    height:16px;
+    left:-2px
+}
+.content b span {
+    color: #757575;
+    font-weight: 400;
+}
+.container .columns b span {
+    color: #757575;
+    font-weight: 400;
+}
